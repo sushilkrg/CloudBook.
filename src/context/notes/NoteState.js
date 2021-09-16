@@ -12,6 +12,69 @@ const NoteState = (props) => {
           "tag": "personal",
           "date": "2021-09-10T10:51:23.921Z",
           "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
+        },
+        {
+          "_id": "613b38abf3939941099799f9",
+          "user": "613b03c1553bc98a4667bd6a",
+          "title": "mytitle",
+          "description": "Please wake up early",
+          "tag": "personal",
+          "date": "2021-09-10T10:51:23.921Z",
+          "__v": 0
         }
       ]
 
