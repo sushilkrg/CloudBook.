@@ -44,7 +44,7 @@ const NoteState = (props) => {
 
       console.log("adding a new note");
     const note = {
-      "_id": "613b38abf3939941099799f2",
+      "_id": "614420f08aa885db97bd7383",
       "user": "613b03c1553bc98a4667bd6a",
       "title": title,
       "description": description,
