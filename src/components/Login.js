@@ -21,8 +21,8 @@ const Login = (props) => {
         if(json.success){
             // save the auth token and redirect
             localStorage.setItem("token", json.authtoken);
-            history.push("/");
             props.showAlert("Logged in successfully", "success");
+            history.push("/");
 
         }
         else{
@@ -36,7 +36,8 @@ const Login = (props) => {
 
 
     return (
-        <div>
+        <div className="mt-2">
+            <h2>Login to continue to CloudBook</h2>
             <form onSubmit={handleSubmit}>
                 <div className="mb-3">
                     <label htmlFor="email" className="form-label">Email address</label>

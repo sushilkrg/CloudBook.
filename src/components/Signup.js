@@ -38,9 +38,10 @@ const Signup = (props) => {
 
 
     return (
-        <div className="container">
+        <div className="container mt-2">
+            <h2>Create an account to use CloudBook</h2>
             <form onSubmit={handleSubmit}>
-                <div className="mb-3">
+                <div className="my-3">
                     <label htmlFor="name" className="form-label">Name</label>
                     <input type="text" className="form-control" id="name" name="name" onChange={onChange} aria-describedby="emailHelp"/>
                     <div id="emailHelp" class ="form-text">We'll never share your email with anyone else.</div>
